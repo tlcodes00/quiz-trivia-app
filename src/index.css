@@ -1,0 +1,30 @@
+
+*{
+  box-sizing: border-box;
+}
+
+html,
+body{
+    background-color: #CAF3CF;
+    margin: 0 auto;
+}
+
+.border,
+main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.border{
+  height: 100vh;
+  
+}
+
+select{
+  width: 260px;
+  margin: 10px;
+  font-size: 1rem;
+}
