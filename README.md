@@ -2,6 +2,8 @@
 
 A trivia quiz app built with React that lets you customize your quiz by selecting a category, difficulty, and number of questions.
 
+LIVE DEMO: https://tonyquizzicle.netlify.app/ 
+
 ## Features
 
 - Choose from a wide range of trivia categories
